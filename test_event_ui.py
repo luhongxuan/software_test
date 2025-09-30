@@ -5,3 +5,4 @@ def test_event_title():
 def test_event_list():
     events = ["Event A - Jan 20", "Event B - Jan 25"]
     assert len(events) >= 1
+    
